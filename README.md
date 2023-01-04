@@ -1,4 +1,4 @@
-# Scraping Leetcode.com for questions
+# Scraping Leetcode.com for question material
 
 In this notebook, I scrape the 
 
